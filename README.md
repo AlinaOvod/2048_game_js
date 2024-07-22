@@ -14,5 +14,5 @@ This project is a web-based implementation of the popular puzzle game "2048." Th
 The project combines modern web development practices using HTML5, SCSS, and JavaScript ES6 modules to create a fully functional and interactive 2048 game. The game logic is encapsulated in JavaScript classes, and the UI is dynamically updated based on user interactions. The use of SCSS allows for a clean and maintainable styling approach, while the modular JavaScript code ensures scalability and reusability.
 
 3. How to start: Just press on start buttom.
-4. Demo link: https://alinaovod.github.io/2048_game_js/
-5. Project layout: https://github.com/AlinaOvod/2048_game_js
+4. [Demo link](https://alinaovod.github.io/2048_game_js/)
+5. [Project layout](https://github.com/AlinaOvod/2048_game_js)
